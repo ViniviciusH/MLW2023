@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+.bgcolor {
+    background-color: aqua;
+    height: 50px;
+    width: 30%;
+}
+.bgimage{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/au_article_header_spider-man60th_d_e6b6debe.jpeg?region=1,0,1363,767);
+    background-repeat: no-repeat;
+    background-color: red;
+    height: 200px;
+    width: 30%;
+    background-size: contain;
+}
+
+body{
+    background-image: url(https://images6.alphacoders.com/125/thumb-1920-1250573.jpg);
+    background-attachment: fixed;
+}
